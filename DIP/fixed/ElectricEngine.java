@@ -1,6 +1,6 @@
 package DIP.fixed;
 
-public class ElectricFixed implements EngineFixed{
+public class ElectricEngine implements EngineFixed{
 
     @Override
     public void start() {
