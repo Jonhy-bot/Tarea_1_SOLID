@@ -23,6 +23,7 @@ public class UserDataManagerOriginal {
         } else {
             System.out.println("Invalid username or password.");
         }
+
     }
 
     private boolean validateUsername(String username) {
