@@ -2,7 +2,7 @@ package LSP.bad;
 
 public class AreaCalculationOriginal {
     public static void main(String[] args) {
-        Rectangle rectangle = new Square();
+        RectangleOriginal rectangle = new SquareOriginal();
         rectangle.setWidth(5);
         rectangle.setHeight(4);
         System.out.println("Area: " + rectangle.calculateArea());
