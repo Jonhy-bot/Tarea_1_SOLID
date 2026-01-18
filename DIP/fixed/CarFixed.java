@@ -11,5 +11,3 @@ public class CarFixed {
         engine.start();
     }
 }
-
-   
